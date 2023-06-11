@@ -11,6 +11,7 @@ A collection of tools to get things done
 ## Diagramming
 
 - [D2](https://github.com/terrastruct/d2) - diagram scripting language that turns text to diagrams ([playground](https://play.d2lang.com))
+- [mermaid](https://github.com/mermaid-js/mermaid) - generate diagrams from markdown-like text ([playground](https://mermaid.live))
 
 ## License
 
