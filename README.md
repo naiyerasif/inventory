@@ -7,6 +7,7 @@ A collection of tools to get things done
 ## Database
 
 - [dbml](https://github.com/holistics/dbml) - Database Markup Language, designed to define and document database structures
+- [SchemaSpy](https://github.com/schemaspy/schemaspy) - database metadata analyzer to visualize, navigate and understand the data model
 
 ## Diagramming
 
